@@ -1,24 +1,14 @@
 
 
-<!--
-**Eliud254/Eliud254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align=center>
-# <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Eliud" />
-</div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliud Obure
-===================================================================================================================================
+- 🔭 I’m currently working on an e-commerce project
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on any project
+- 💬 Ask me about Html ,Css ,Javasript,React ,Python
+- 📫 How to reach me:eliudobure@gmail.com
+- ⚡ Fun fact:I love Music 
+
 
 Software Engineer
 -----------------
