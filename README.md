@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an e-commerce project
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning AWS ,Docker 
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Html ,Css ,Javasript,React ,Python
 - 📫 How to reach me:eliudobure@gmail.com
