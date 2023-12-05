@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Html ,Css ,Javasript,React ,Python
 - 📫 How to reach me:eliudobure@gmail.com
-- ⚡ Fun fact:I love Music 
+- ⚡ Fun fact:I love Music
+- * 🌍  I'm based in Nairobi Kenya
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliud Obure
 ===================================================================================================================================
@@ -17,8 +18,7 @@ Software Engineer
 
 Excited about architecting elegant solutions for intricate challenges, I am a dedicated software engineer specializing in front-end technologies. With a strong foundation in crafting seamless user experiences and pixel-perfect interfaces, I am currently immersing myself in the dynamic realm of back-end development.
 
-* 🌍  I'm based in Nairobi Kenya
-* ✉️  You can contact me at [eliudobure@gmail.com](mailto:eliudobure@gmail.com)
+
 
 <a href="https://www.github.com/Eliud254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Eliud254?logo=github&style=for-the-badge&color=444e59&labelColor=312e81" /></a><a href="https://www.x.com/EliudObure" target="_blank" rel="noreferrer"><img
